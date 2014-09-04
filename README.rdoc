@@ -1,3 +1,0 @@
-= attask_importer
-
-Import AtTask information into Redmine

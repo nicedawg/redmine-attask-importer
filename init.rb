@@ -1,3 +1,6 @@
+require 'redmine'
+require_dependency 'user_patch'
+
 Redmine::Plugin.register :attask_importer do
   name 'Attask Importer plugin'
   author 'Brady Somerville'
